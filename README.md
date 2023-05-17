@@ -1,4 +1,7 @@
+
 # Usage
+
+![csv2json2yaml](img/csv2json2yaml.png)
 
 To convert JSON data to YAML format, use the command `python csv2json2yaml.py json2yaml input_file.json output_file.yaml`, replacing `input_file.json` with the path to your JSON file and output_file.yaml with the desired output file name.
 
