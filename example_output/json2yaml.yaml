@@ -1,0 +1,51 @@
+ht:
+  dead:
+  - Sample: zf6
+    cat: ht
+    state: dead
+  - Sample: zf12
+    cat: ht
+    state: dead
+  live:
+  - Sample: zf3
+    cat: ht
+    state: live
+  - Sample: zf9
+    cat: ht
+    state: live
+mut:
+  dead:
+  - Sample: zf4
+    cat: mut
+    state: dead
+  - Sample: zf7
+    cat: mut
+    state: dead
+  - Sample: zf10
+    cat: mut
+    state: dead
+  - Sample: zf13
+    cat: mut
+    state: dead
+  live:
+  - Sample: zf14
+    cat: mut
+    state: live
+wt:
+  dead:
+  - Sample: zf1
+    cat: wt
+    state: dead
+  - Sample: zf2
+    cat: wt
+    state: dead
+  live:
+  - Sample: zf5
+    cat: wt
+    state: live
+  - Sample: zf8
+    cat: wt
+    state: live
+  - Sample: zf11
+    cat: wt
+    state: live

@@ -1,0 +1,15 @@
+Sample,state,cat
+zf1,dead,wt
+zf2,dead,wt
+zf3,live,ht
+zf4,dead,mut
+zf5,live,wt
+zf6,dead,ht
+zf7,dead,mut
+zf8,live,wt
+zf9,live,ht
+zf10,dead,mut
+zf11,live,wt
+zf12,dead,ht
+zf13,dead,mut
+zf14,live,mut
